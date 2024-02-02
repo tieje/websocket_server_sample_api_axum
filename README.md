@@ -8,4 +8,5 @@ Practicing creating a websocket API server built with Axum.
 
 ## TODO
 
+- [ ] figure out how to test the websocket
 - [ ] make a blog post about websockets in Axum Rust
