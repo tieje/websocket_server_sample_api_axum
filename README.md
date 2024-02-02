@@ -9,4 +9,5 @@ Practicing creating a websocket API server built with Axum.
 ## TODO
 
 - [ ] figure out how to test the websocket
+  - [ ] perhaps the best way to test is to set up two servers that communicate with each other such as in a game of ping pong
 - [ ] make a blog post about websockets in Axum Rust
